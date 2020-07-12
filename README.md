@@ -1,8 +1,9 @@
-# Wolfgang Viechtbauer
+# Hi there!
 
 ## Work Details
 
-- I am associate professor of methodology and statistics at the department of Psychiatry and Neuropsychology, Maastricht University, the Netherlands
+- I am associate professor of methodology and statistics
+- I work at the department of Psychiatry and Neuropsychology, Maastricht University, the Netherlands
 - I do research on the statistical methods for meta-analysis and the analysis of multilevel and longitudinal data, with particular emphasis on computation statistics and software development
 
 ## Most Important Projects

@@ -16,5 +16,5 @@
 ## Get in touch
 
 - **Twitter:** https://twitter.com/wviechtb
-- **Website:** http://www.wvbauer.com
+- **Website:** https://www.wvbauer.com
 - **Email:** wvb (at) wvbauer (dot) com

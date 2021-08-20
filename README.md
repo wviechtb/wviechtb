@@ -8,6 +8,7 @@
 ## Most Important Projects
 
 - [**metafor**](https://github.com/wviechtb/metafor): a meta-analysis package for R
+- [**metadat**](https://github.com/wviechtb/metadat): meta-analysis datasets for R
 - [**mathjaxr**](https://github.com/wviechtb/mathjaxr): an R package for easy use of MathJax in Rd files (i.e., for nicely rendering mathematical equations in the HTML help files)
 - [**poolr**](https://github.com/ozancinar/poolr): an R package for pooling the results from (dependent) tests (i.e., by combining the p-values)
 - [**course_oor**](https://github.com/wviechtb/course_oor): the repo for my 'Open Online Introduction to R Course'

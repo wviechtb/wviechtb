@@ -17,6 +17,7 @@
 
 ## Get in touch
 
+- **Mastodon:** https://scholar.social/@wviechtb
 - **Twitter:** https://twitter.com/wviechtb
 - **Website:** https://www.wvbauer.com
 - **Email:** wvb (at) wvbauer (dot) com

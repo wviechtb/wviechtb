@@ -21,6 +21,6 @@
 ## Get in touch
 
 - **Mastodon:** https://scholar.social/@wviechtb
-- **Twitter:** https://twitter.com/wviechtb
+- **Bluesky:** https://bsky.app/profile/wviechtb.bsky.social
 - **Website:** https://www.wvbauer.com
 - **Email:** wvb (at) wvbauer (dot) com
